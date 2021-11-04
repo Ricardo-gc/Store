@@ -208,13 +208,7 @@ h3{
 }
 
 /*Bloques*/
-.comprar{
 
-}
-
-.comprar__titulo{
-
-}
 .bloques{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
